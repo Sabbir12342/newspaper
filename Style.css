@@ -1,3 +1,11 @@
 h1{
     text-align: center;
 }
+.second{
+    position:relative;
+    right:10px;
+}
+div{
+    border: solid;
+    width: 33%;
+}
