@@ -1,11 +1,30 @@
+.login{
+    position: relative;
+    left: 72%;
+    top: -15px;
+    width: 90px;
+    font-size: large;
+    color: blue;
+}
 h1{
     text-align: center;
 }
+div{
+    border: none;
+    width: 31%;
+}
+.first{
+    position: relative;
+    top: auto;
+    bottom: -40px;
+}
 .second{
     position:relative;
-    right:10px;
+    left:32%;
+    top: -400px;
 }
-div{
-    border: solid;
-    width: 33%;
+.third{
+    position: relative;
+    left: 64%;
+    top: -660px;
 }
