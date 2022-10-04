@@ -3,6 +3,11 @@ a{
   text-decoration: none;
   cursor: alias;  
 }
+#cate {
+    width: 100%;
+    text-align: justify;
+    font-size: x-small;
+}
 .login{
     position: relative;
     left: 72%;
@@ -22,14 +27,17 @@ div{
     position: relative;
     top: auto;
     bottom: -40px;
+    width: 31%;
 }
 .second{
     position:relative;
     left:32%;
     top: -400px;
+    width: 31%;
 }
 .third{
     position: relative;
     left: 64%;
     top: -660px;
+    width: 31%;
 }
