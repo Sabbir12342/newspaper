@@ -7,15 +7,16 @@ div{
 }
 .first{
     position: relative;
-    top: -20px;
+    top: auto;
+    bottom: -40px;
 }
 .second{
     position:relative;
     left:32%;
-    top: -189px;
+    top: -400px;
 }
 .third{
     position: relative;
     left: 64%;
-    top: -450px;
+    top: -660px;
 }
